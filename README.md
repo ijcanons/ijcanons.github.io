@@ -1,6 +1,6 @@
 # ij.start.canon 
 
-[![ij.start.canon](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](getstaredc.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon printers are well known for their advanced features in budget-friendly prices. Download & finish installation from **[ij.start.canon](https://ijcanons.github.io/)** for getting started with canon ij printer setup. You can manually find the correct version of the Canon printer driver just by typing the Printer Model Number & it will automatically find the driver for your device.
 
